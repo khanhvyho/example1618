@@ -1,5 +1,6 @@
 # example1618
 
-My name is:
+My name is: Bunny Ho
 
-My height is:
+My height is: 157 cm
+

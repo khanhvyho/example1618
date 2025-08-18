@@ -1,8 +1,8 @@
 Answer these questions:
 
 1. King of the jungle:
-2. Black-and-white bear that eats bamboo:  
-3. Small, fluffy animal has long ears and hops around:
+2. Black-and-white bear that eats bamboo: pid
+3. Small, fluffy animal has long ears and hops around: pongxinh
 4. Animal with a long trunk and large ears:  
 5. Color-changing reptile:  
 6. Bird that mimics human speech:  
